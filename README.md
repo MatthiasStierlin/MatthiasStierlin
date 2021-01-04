@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there my name is Matthias Stierlin
+I am an application developer trainee from Switzerland🇨🇭
 
 <!--
 **MatthiasStierlin/MatthiasStierlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
