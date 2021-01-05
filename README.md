@@ -1,5 +1,12 @@
 ### Hello there my name is Matthias Stierlin
-I am an application developer trainee from Switzerland🇨🇭
+---
+I am an Application Developer Apprentice from Switzerland🇨🇭.
+
+🧠*Programming Languages*: Java, Python </br>
+🛠️*Frameworks*: Spring, Flask </br>
+📒*Currently learning*: JavaScript </br>
+📚*Want to learn*: Rust, C++ </br>
+
 
 <!--
 **MatthiasStierlin/MatthiasStierlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
