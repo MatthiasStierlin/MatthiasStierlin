@@ -1,8 +1,8 @@
 ### Hello there my name is Matthias Stierlin
 ---
-I am an Application Developer Apprentice from Switzerland🇨🇭.
+I am an Application Developer Apprentice from Switzerland.
 
-🧠*Programming Languages*: Java, Python </br>
+🧠*Programming Languages*: Bash, Java, Python </br>
 🛠️*Frameworks*: Spring, Flask </br>
 📒*Currently learning*: JavaScript </br>
 📚*Want to learn*: Rust, C++ </br>
