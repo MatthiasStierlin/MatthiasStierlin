@@ -2,7 +2,7 @@
 ---
 I am an Application Developer Apprentice from Switzerland.
 
-🧠*Programming Languages*: Bash, Java, Python </br>
+🧠*Programming Languages*: Java, Python </br>
 🛠️*Frameworks*: Spring, Flask </br>
 📒*Currently learning*: JavaScript </br>
 📚*Want to learn*: Rust, C++ </br>
