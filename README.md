@@ -1,6 +1,5 @@
 ### Hello there my name is Matthias Stierlin
 ---
-I am an Application Developer Apprentice from Switzerland.
 
 🧠*Programming Languages*: Java, Python </br>
 🛠️*Frameworks*: Spring, Flask </br>
