@@ -1,10 +1,10 @@
 ### Hello there my name is Matthias Stierlin
 ---
 
-🧠*Programming Languages*: Java, Python </br>
+🧠*Programming Languages*: Java, Python, Javascript </br>
 🛠️*Frameworks*: Spring, Flask </br>
-📒*Currently learning*: JavaScript </br>
-📚*Want to learn*: Rust, C++ </br>
+📒*Currently learning*: Rust, Go, C#, Bash </br>
+📚*Want to learn*: Swift </br>
 
 
 <!--
